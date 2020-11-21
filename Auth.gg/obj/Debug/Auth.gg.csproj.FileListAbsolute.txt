@@ -1,0 +1,7 @@
+C:\Users\aryan\Desktop\Auth.gg\Auth.gg\bin\Debug\Auth.gg.exe.config
+C:\Users\aryan\Desktop\Auth.gg\Auth.gg\bin\Debug\Auth.gg.exe
+C:\Users\aryan\Desktop\Auth.gg\Auth.gg\bin\Debug\Auth.gg.pdb
+C:\Users\aryan\Desktop\Auth.gg\Auth.gg\obj\Debug\Auth.gg.csprojAssemblyReference.cache
+C:\Users\aryan\Desktop\Auth.gg\Auth.gg\obj\Debug\Auth.gg.csproj.CoreCompileInputs.cache
+C:\Users\aryan\Desktop\Auth.gg\Auth.gg\obj\Debug\Auth.gg.exe
+C:\Users\aryan\Desktop\Auth.gg\Auth.gg\obj\Debug\Auth.gg.pdb
