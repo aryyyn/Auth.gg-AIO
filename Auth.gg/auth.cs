@@ -122,7 +122,7 @@ namespace Auth.gg
                 Console.Clear();
                 auth.main();
             }
-            if ( choose == "1")
+            else if ( choose == "1")
             {
                 Console.Clear();
                 Console.WriteLine("Getting info..");
