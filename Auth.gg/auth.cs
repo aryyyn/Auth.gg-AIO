@@ -145,7 +145,7 @@ namespace Auth.gg
                 Console.Clear();
                 auth.main();
             }
-            if (choose == "2")
+           else if (choose == "2")
             {
                 Console.Clear();
                 Console.WriteLine("Name of the user?");
@@ -175,7 +175,7 @@ namespace Auth.gg
                 auth.main();
             }
            
-            if (choose == "3")
+           else if (choose == "3")
             {
                 Console.Clear();
                 Console.WriteLine("Name of the user?");
@@ -196,7 +196,7 @@ namespace Auth.gg
                 auth.main();
             }
           
-            if (choose == "4")
+            else if (choose == "4")
             {
                 Console.Clear();
                 Console.WriteLine("license?");
@@ -217,7 +217,7 @@ namespace Auth.gg
                 Console.Clear();
                 auth.main();
             }
-            if (choose == "5")
+        else if (choose == "5")
             {
                 Console.Clear();
                 Console.WriteLine("Name of the user?");
@@ -237,6 +237,10 @@ namespace Auth.gg
                 Console.ReadLine();
                 Console.Clear();
                 auth.main();
+            }
+          else
+          {
+              Console.clear();
             }
         }
     }
