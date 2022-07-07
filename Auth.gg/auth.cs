@@ -19,7 +19,7 @@ namespace Auth.gg
         {
 
 
-            Console.Title = "Auth.gg AIO | beachchicken#3333";
+            Console.Title = "Auth.gg AIO | aryn#5511";
 
             if (File.Exists("auth.chickenn"))
             {
